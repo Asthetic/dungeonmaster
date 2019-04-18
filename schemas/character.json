@@ -1,0 +1,15 @@
+{
+  "mappings": {
+    "properties": {
+      "uid": {"type": "keyword"},
+      "name": {"type": "text"},
+      "class": {"type": "string"},
+      "level": {"type": "integer"},
+      "strength": {"type": "integer"},
+      "wisdom": {"type": "integer"},
+      "charisma": {"type": "integer"},
+      "Intelligence": {"type": "integer"},
+      "dexterity": {"type": "integer"}
+    }
+  }
+}
